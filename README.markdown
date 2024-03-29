@@ -1,3 +1,7 @@
+Note
+===============
+This repository has been archived; it is no longer actively being developed.
+
 OpenERP-Install
 ===============
 
